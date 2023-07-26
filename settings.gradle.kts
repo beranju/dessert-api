@@ -1,0 +1,1 @@
+rootProject.name = "com.beran.ktor-graphql"
